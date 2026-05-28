@@ -1,0 +1,2 @@
+// icon.rc - Resource script for icon embedding
+1 ICON "icon.ico"
